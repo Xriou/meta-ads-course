@@ -12,4 +12,4 @@
 - [Level 10 · 操盘手决策系统](level-10.md)
 - [Level 11 · 综合案例训练](level-11.md)
 - [附录 · 速查与工具](appendix.md)
-- [🎮 配套互动课程](interactive/index.html)
+- [🎮 配套互动课程](interactive.md)
